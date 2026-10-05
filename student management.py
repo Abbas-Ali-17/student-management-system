@@ -54,3 +54,5 @@ student1.get_result()
 manager.add_student(student1)
 manager.add_student(student2)
 manager.view_students()
+
+# Git practice
